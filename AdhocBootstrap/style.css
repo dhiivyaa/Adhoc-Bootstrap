@@ -1,0 +1,9 @@
+div.jumbotron.jumbotron-fluid{
+    background-image: url('images/jumbotron.png');
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+.card-img{
+    height:350px;
+    width:350px;
+}
